@@ -19,6 +19,9 @@ Hi, I’m @moonman369
 
 ## Languages & Stacks
 
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <div align="center">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
