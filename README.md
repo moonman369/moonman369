@@ -10,8 +10,9 @@
 ## About Me
 
 Hi, I’m @moonman369
--  I’m interested in developing smart contracts and application specific blockchains.
--  I’m currently learning Solidity and Cosmos SDK.
+-  I’m interested in developing smart contracts, application specific blockchains and dApps.
+-  My goal is to achieve decentralization, security and scalability (not all 3 at the same time tho, cuz.... obviously) and pave a way for mass adoption of Web3.0.
+-  I’m currently learning Solidity, Web3.js and Truffle.
 -  I’m looking for more insight in these fields.
 -  I am also an amateur Web Developer.
 -  Currently learning JavaScript, HTML5 and CSS3.
