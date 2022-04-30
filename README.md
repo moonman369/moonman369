@@ -39,6 +39,6 @@ Hi, I’m @moonman369
 ## Github Trophies
 
 <div align="center">
-<img src=[![trophy](https://github-profile-trophy.vercel.app/?username=moonman369&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)>
+<img src="https://github-profile-trophy.vercel.app/?username=moonman369&theme=onedark">
 </div>
 
