@@ -5,7 +5,8 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mightyayan369@gmail.com)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nemesis606#6770)
 
-[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")<br><br>
+[![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social)<br><br>
 
 ## About Me
 
