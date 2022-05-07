@@ -22,7 +22,7 @@ Hi, I’m @moonman369
 
 ## Find Me
 
-<a href="mailto:mightyayan369@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" width='50'></a>
+<a href="mailto: mightyayan369@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" width='50'></a>
 
 
           
