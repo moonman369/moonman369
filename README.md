@@ -22,8 +22,8 @@ Hi, I’m @moonman369
 
 ## Find Me
 
-[<img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" width='50' align='center'>](mailto:mightyayan369@gmail.com)
-[![image](https://user-images.githubusercontent.com/100613640/167249946-55f28bf7-bac2-485b-b7f1-6bb3488b24d7.png)](mailto:mightyayan369@gmail.com)
+<a href="mailto:mightyayan369@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" width='50'></a>
+
 
           
 ## Languages & Stacks
