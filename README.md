@@ -82,11 +82,12 @@ Hi, I’m @moonman369
 ## My Stats
 
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical"><br/>
+          
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical" width="900"><br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical"><br/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical" width="445">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical" width="445"><br/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical" width="445">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical" width="445">
 </div>
 
 
