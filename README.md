@@ -46,5 +46,17 @@ Hi, I’m @moonman369
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=moonman369&theme=onedark">
-</div>
+</div><br/><br/>
+
+
+## My Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical)<br/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical&utcOffset=8)
+
+
 
