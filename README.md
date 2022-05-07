@@ -1,12 +1,16 @@
 # Profile
 
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coin_sniper356)
+<!--[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/coin_sniper356)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-maiti-5b4332233/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mightyayan369@gmail.com)
-[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nemesis606#6770)
+[![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nemesis606#6770)-->
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social)<br><br>
+![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp; &nbsp;
+![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=moonman369.moonman369)<br><br>
 
 ## About Me
 
@@ -40,20 +44,31 @@ Hi, I’m @moonman369
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/167257168-4ee54a7c-03b8-4706-8a82-7e7593f91931.png" title="Hardhat" alt="Hardhat" width="50" height="50"/>&nbsp;&nbsp;
+   
   
+
+
+
+
           
 </div><br><br>
 
@@ -65,13 +80,15 @@ Hi, I’m @moonman369
 
 
 ## My Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical)<br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical)<br/>
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical"><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical"><br/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical">&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical&utcOffset=8">
+</div>
+
 
 
 
