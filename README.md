@@ -83,7 +83,7 @@ Hi, I’m @moonman369
 
 <div align="center">
           
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical" width="900"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical" width="800"><br>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical" width="375">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical" width="375"><br>
 
