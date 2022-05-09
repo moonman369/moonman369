@@ -35,7 +35,7 @@ Hi, I’m @moonman369
 <a href="https://discordapp.com/users/Nemesis606#6770"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
 <a href="https://medium.com/@crypto10000x"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
 <a href="https://angel.co/u/ayan-maiti-3"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp;
-</div>
+</div><br/><br/>
 
           
 ## Languages & Stacks
@@ -59,6 +59,7 @@ Hi, I’m @moonman369
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
