@@ -59,7 +59,7 @@
   <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Web3JS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
+  <!--img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
