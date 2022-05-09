@@ -14,7 +14,6 @@
 
 ## About Me
 
-<br/>
 Hi, I’m @moonman369
 - 🌱 I’m interested in developing smart contracts, application specific blockchains and dApps.
 - ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
