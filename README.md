@@ -14,6 +14,7 @@
 
 ## About Me
 
+<br/>
 Hi, I’m @moonman369
 - 🌱 I’m interested in developing smart contracts, application specific blockchains and dApps.
 - ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
@@ -26,6 +27,7 @@ Hi, I’m @moonman369
 
 ## Find Me
 
+<br/>
 <div align="center">
 <a href="mailto:mightyayan369@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
 <a href="https://twitter.com/coin_sniper356"> <img src="https://user-images.githubusercontent.com/100613640/167250432-26046656-736f-4f5d-83a7-7df1d5859a17.png" title="Twitter" width='50'></a>&nbsp;
@@ -40,7 +42,7 @@ Hi, I’m @moonman369
           
 ## Languages & Stacks
 
-
+<br/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div align="center">  
@@ -55,11 +57,11 @@ Hi, I’m @moonman369
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Web3JS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
-  <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
@@ -75,6 +77,7 @@ Hi, I’m @moonman369
 
 ## Github Trophies
 
+<br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=moonman369&theme=onedark">
 </div><br/><br/>
