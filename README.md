@@ -18,10 +18,10 @@
 - 🌱 I’m an aspiring **blockchain developer** interested in developing smart contracts, application specific blockchains and dApps.
 - ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
 - 🧐 I’m currently learning Solidity, Web3.js and Truffle and looking for more insight in these fields.
-- 🚀 I have a basic understanding of Machine Learning.
+- 🚀 I have a basic understanding of Machine Learning and decent Python skills.
 - 💻 I am also an amateur Web Developer looking to transition into Web3 development.
 - 📚 Currently learning JavaScript, HTML5 and CSS3 and other JavaScript frameworks like React and Web3js.
-- 🖥 Python3, Java, C++ are among other languages that I can code in.<br><br>
+- 🖥 Java, C++ are among other languages that I can code in.<br><br>
 <!--₿-->
 
 ## Find Me
