@@ -15,7 +15,7 @@
 ## About Me
 
 ***Hi, I’m @moonman369***
-- 🌱 I’m an aspiring **blockchain developer** interested in developing smart contracts, application specific blockchains and dApps.
+- 🌱 I’m an aspiring **Blockchain Developer** interested in developing smart contracts, application specific blockchains and dApps.
 - ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
 - 🧐 I’m currently learning Solidity, Web3.js and Truffle and looking for more insight in these fields.
 - 🚀 I have a basic understanding of Machine Learning and decent Python skills.
