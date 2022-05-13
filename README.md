@@ -78,7 +78,7 @@
 
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=moonman369&theme=juicyfresh&no-frame=true" height=130>
+<img src="https://github-profile-trophy.vercel.app/?username=moonman369&theme=juicyfresh&no-frame=false" height=130>
 </div><br/><br/>
 
 
