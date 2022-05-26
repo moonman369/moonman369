@@ -55,7 +55,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
-  <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"  title="Cosmos" alt="Cosmos" height="50"/>&nbsp;&nbsp;
+  <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"  title="Cosmos SDK" alt="Cosmos SDK" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
