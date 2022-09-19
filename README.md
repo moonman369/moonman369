@@ -16,14 +16,16 @@
 
 ***Hi, I’m @moonman369***
 - 🌱 I’m an aspiring **Blockchain Developer** interested in developing smart contracts, application specific blockchains and dApps.
-- ⚽ My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
-- 🧐 I’m currently learning Solidity, Web3.js and Truffle and looking for more insight in these fields.
-- 🚀 I have a basic understanding of Machine Learning and decent Python skills.
-- 💻 I am also an amateur Web Developer looking to transition into Web3 development.
-- 🎆 I have experience in working with blockchain development tools like Hardhat, Truffle, Openzeppelin.
-- 📚 Currently learning JavaScript, HTML5 and CSS3 and other JavaScript frameworks like ReactJS, NextJS, Web3js, Ethersjs.
-- ✨ I have started developing on Cosmos SDK as well.
-- 🖥 Java, C++ are among other languages that I can code in.<br><br>
+- 🥅 My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
+- 🚀 Currently working as ***Blockchain Developer Intern*** at **W3Dev Private Limited**.
+- 🧐 Contributed to multiple full stack decentralized applications from the ground up.
+- 💻 Researching about different Blockchain Protocols and developing applications and utilities using them.
+- 🔗 I have experience in working with Multiple Blockchain API's such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos*, etc.
+- 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Metamask, EthersJS, Web3JS, NearJS*, etc.
+- 📚 Decent skills in *JavaScript, HTML5 and CSS3*. Learning JavaScript frameworks like *ReactJS, NextJS, Vue*, etc.
+- ✨ I have a basic understanding of *Machine Learning* and decent *Python* skills.
+- 📂 Basic experience in DBMS in web applictions using *SQL*.
+- 🖥 *Java, C++* are among other languages that I can code in.<br><br>
 <!--₿-->
 
 ## Find Me
