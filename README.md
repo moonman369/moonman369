@@ -20,7 +20,7 @@
 - 🚀 Currently working as ***Blockchain Developer Intern*** at **W3Dev Private Limited**.
 - 🧐 Contributed to multiple full stack decentralized applications from the ground up.
 - 💻 Researching about different Blockchain Protocols and developing applications and utilities using them.
-- 🔗 I have experience in working with Multiple Blockchain API's such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos*, etc.
+- 🔗 I have experience in working with Multiple Blockchains such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos*, etc.
 - 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Metamask, EthersJS, Web3JS, NearJS*, etc.
 - 📚 Decent skills in *JavaScript, HTML5 and CSS3*. Learning JavaScript frameworks like *ReactJS, NextJS, Vue*, etc.
 - ✨ I have a basic understanding of *Machine Learning* and decent *Python* skills.
