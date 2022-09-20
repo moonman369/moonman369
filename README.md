@@ -50,24 +50,31 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/P/polygon-matic-logo-86F4D6D773-seeklogo.com.png" title="Polygon" alt="Polygon" width="50" height="50"> &nbsp; &nbsp; 
+  <img src="https://seeklogo.com/images/N/near-protocol-near-logo-747A7B638A-seeklogo.com.png" title="Near" alt="Near" width="50" height="50"> &nbsp; &nbsp;
+  <img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" title="Avalanche" alt="Avalanche" width="50" height="50"> &nbsp; &nbsp;
   <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"  title="Cosmos SDK" alt="Cosmos SDK" height="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="Node Package Manager" alt="NPM" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" title="Yarn Package Manager" alt="Yarn" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Web3JS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="EthersJS" alt="EthersJS" width="60"> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" title="VueJS" alt="Vue" width="50" height="45"/> &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="50" height="40"/>&nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
