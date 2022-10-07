@@ -9,8 +9,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
-![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp; &nbsp;
-![PROFILE VISITS](https://visitor-badge.glitch.me/badge?page_id=moonman369.moonman369)<br><br>
+![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp;&nbsp;
+![PROFILE VISITS](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br><br>
 
 ## About Me
 
