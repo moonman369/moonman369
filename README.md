@@ -17,12 +17,14 @@
 ***Hi, I’m @moonman369***
 - 🌱 I’m an aspiring **Blockchain Developer** interested in developing smart contracts, application specific blockchains and dApps.
 - 🥅 My goal is to achieve decentralization, security and scalability and pave way for mass adoption of Web3.0.
-- 🚀 Currently working as ***Blockchain Developer Intern*** at **W3Dev Private Limited**.
+- 🚀 I have completed my internship as a ***Blockchain Developer*** at **W3Dev Private Limited**.
+- ⏱ I am currently contributing to an open source crypto project on **Cardano**, called **Eduladder Protocol**.
 - 🧐 Contributed to multiple full stack decentralized applications from the ground up.
 - 💻 Researching about different Blockchain Protocols and developing applications and utilities using them.
-- 🔗 I have experience in working with Multiple Blockchains such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos*, etc.
+- 🔗 I have experience in working with Blockchains such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos, Cardano*, etc.
 - 🎆 I have experience in working with blockchain tools and frameworks like *Hardhat, Truffle, Metamask, EthersJS, Web3JS, NearJS*, etc.
 - 📚 Decent skills in *JavaScript, HTML5 and CSS3*. Learning JavaScript frameworks like *ReactJS, NextJS, Vue*, etc.
+- 🌐 I basic have experience in *Backend development* and creating *REST APIs* with *ExpressJS* and consuming them with *Axios*
 - ✨ I have a basic understanding of *Machine Learning* and decent *Python* skills.
 - 📂 Basic experience in DBMS in web applictions using *SQL*.
 - 🖥 *Java, C++* are among other languages that I can code in.<br><br>
