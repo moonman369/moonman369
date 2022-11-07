@@ -10,7 +10,7 @@
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp;&nbsp;
-![PROFILE VISITS](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)<br><br>
+![PROFILE VISITS](https://komarev.com/ghpvc/?username=moonman369&color=blueviolet)<br><br>
 
 ## About Me
 
