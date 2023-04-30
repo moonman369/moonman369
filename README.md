@@ -60,9 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/235368570-a9473394-d6d2-46bd-a67a-ff0b2b57b4df.png" title="Tailwind CSS" alt="Tailwind CSS" width="70" height="40"/>&nbsp;&nbsp;
+
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" title="Solana" alt="SOL" width="50" height="50"/>&nbsp;&nbsp
+  <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" title="Solana" alt="SOL" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/polygon-matic-logo-86F4D6D773-seeklogo.com.png" title="Polygon" alt="Polygon" width="50" height="50"> &nbsp; &nbsp; 
   <img src="https://seeklogo.com/images/N/near-protocol-near-logo-747A7B638A-seeklogo.com.png" title="Near" alt="Near" width="50" height="50"> &nbsp; &nbsp;
   <img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" title="Avalanche" alt="Avalanche" width="50" height="50"> &nbsp; &nbsp;
@@ -73,6 +75,7 @@
   <img src="https://jirasupport.files.wordpress.com/2018/04/web3.png" title="Web3JS" alt="Web3JS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" title="EthersJS" alt="EthersJS" width="60"> &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/199317110-85461db1-39d5-4e80-952c-e2cce780ae38.png" title="ExpressJS" alt="ExpressJS" width="60"> &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/100613640/235369028-17d9b4e2-e406-4037-b281-1c637d976937.png" title="MongoDB" alt="MongoDB" width="60"> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" title="VueJS" alt="Vue" width="50" height="45"/> &nbsp;&nbsp;
