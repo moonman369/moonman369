@@ -40,7 +40,7 @@
 <a href="https://leetcode.com/moonman369/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="Leetcode" width='50'></a>&nbsp;
 <a href="https://www.hackerrank.com/moonman666"> <img src="https://user-images.githubusercontent.com/100613640/167250493-d24e9dba-837b-47f5-837b-016a7e83d3a3.png" title="HackerRank" width='50'></a>&nbsp;
 <a href="https://www.codewars.com/users/moonman369"> <img src="https://docs.codewars.com/logo.svg" title="Codewars" width='50'></a>&nbsp;
-<a href="https://discordapp.com/users/Nemesis606#6770"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
+<a href="https://discord.com/users/1055708865943056414"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
 <a href="https://medium.com/@crypto10000x"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
 <a href="https://angel.co/u/ayan-maiti-3"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp;
 </div><br/><br/>
