@@ -34,15 +34,16 @@
 
 <br/>
 <div align="center">
-<a href="mailto:mightyayan369@gmail.com"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
-<a href="https://twitter.com/coin_sniper356"> <img src="https://user-images.githubusercontent.com/100613640/167250432-26046656-736f-4f5d-83a7-7df1d5859a17.png" title="Twitter" width='50'></a>&nbsp;
-<a href="https://www.linkedin.com/in/ayan-maiti-5b4332233/"> <img src="https://user-images.githubusercontent.com/100613640/167250457-c7030156-9316-4903-8215-477f2c31990f.png" title="LinkedIn" width='50'></a>&nbsp;
-<a href="https://leetcode.com/moonman369/"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="Leetcode" width='50'></a>&nbsp;
-<a href="https://www.hackerrank.com/moonman666"> <img src="https://user-images.githubusercontent.com/100613640/167250493-d24e9dba-837b-47f5-837b-016a7e83d3a3.png" title="HackerRank" width='50'></a>&nbsp;
-<a href="https://www.codewars.com/users/moonman369"> <img src="https://docs.codewars.com/logo.svg" title="Codewars" width='50'></a>&nbsp;
-<a href="https://discord.com/users/1055708865943056414"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
-<a href="https://medium.com/@crypto10000x"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
-<a href="https://angel.co/u/ayan-maiti-3"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp;
+<a href="https://devfoliomoonman369.netlify.app/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1352/1352280.png" title="Portfolio" width='50'></a>&nbsp;
+<a href="mailto:mightyayan369@gmail.com" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167249537-2538da78-a5c8-41d0-b7b8-4cd7503f43e6.png" title="Gmail" width='50'></a>&nbsp;
+<a href="https://twitter.com/coin_sniper356" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250432-26046656-736f-4f5d-83a7-7df1d5859a17.png" title="Twitter" width='50'></a>&nbsp;
+<a href="https://www.linkedin.com/in/ayan-maiti-5b4332233/" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250457-c7030156-9316-4903-8215-477f2c31990f.png" title="LinkedIn" width='50'></a>&nbsp;
+<a href="https://leetcode.com/moonman369/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" title="Leetcode" width='50'></a>&nbsp;
+<a href="https://www.hackerrank.com/moonman666" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250493-d24e9dba-837b-47f5-837b-016a7e83d3a3.png" title="HackerRank" width='50'></a>&nbsp;
+<a href="https://www.codewars.com/users/moonman369" target="_blank"> <img src="https://docs.codewars.com/logo.svg" title="Codewars" width='50'></a>&nbsp;
+<a href="https://discord.com/users/1055708865943056414" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
+<a href="https://medium.com/@crypto10000x" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
+<a href="https://angel.co/u/ayan-maiti-3" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp;
 </div><br/><br/>
 
           
