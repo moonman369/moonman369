@@ -4,9 +4,14 @@
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayan-maiti-5b4332233/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mightyayan369@gmail.com)
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Nemesis606#6770)-->
-[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) &nbsp;
+
+<!--[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)-->
+
+![shields](https://img.shields.io/badge/powered_by-overtime-6a09ab?style=for-the-badge) &nbsp;
+![shields](https://img.shields.io/badge/made_with-markdown-4278f5?style=for-the-badge)  &nbsp;
+![shields](https://img.shields.io/badge/uses-brains-2dba4e?style=for-the-badge)
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp;&nbsp;
