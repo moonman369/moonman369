@@ -15,7 +15,7 @@
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp;&nbsp;
-![PROFILE VISITS](https://komarev.com/ghpvc/?username=moonman369&color=fc9558)<br><br>
+![PROFILE VISITS](https://komarev.com/ghpvc/?username=moonman369&color=4518f5)<br><br>
 
 ## About Me
 
