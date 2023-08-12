@@ -32,7 +32,7 @@
 - 🌐 I basic have experience in *Backend development* and creating *REST APIs* with *ExpressJS* and consuming them with *Axios*
 - ✨ I have a basic understanding of *Machine Learning* and decent *Python* skills.
 - 📂 Basic experience in DBMS in web applictions using *SQL*.
-- 🖥 *Java, C++* are among other languages that I can code in.<br><br>
+- 🖥 *Java, C++ & Golang* are among other languages that I can code in.<br><br>
 <!--₿-->
 
 ## Find Me
