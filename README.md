@@ -10,8 +10,8 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com)-->
 
 ![shields](https://img.shields.io/badge/powered_by-overtime-6a09ab?style=for-the-badge) &nbsp;
-![shields](https://img.shields.io/badge/made_with-markdown-4278f5?style=for-the-badge)  &nbsp;
-![shields](https://img.shields.io/badge/uses-brains-2dba4e?style=for-the-badge)
+![shields](https://img.shields.io/badge/made_with-markdown-0763b3?style=for-the-badge)  &nbsp;
+![shields](https://img.shields.io/badge/uses-brains-179c38?style=for-the-badge)
 
 [![GITHUB FOLLOWERS](https://img.shields.io/github/followers/moonman369?style=social)](https://github.com/moonman369")&nbsp; &nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/moonman369?style=social) &nbsp;&nbsp;
