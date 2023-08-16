@@ -55,6 +55,7 @@
 ## Skills & Stacks
 
 
+
 <br/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
@@ -71,12 +72,12 @@
   <img src="https://user-images.githubusercontent.com/100613640/235368570-a9473394-d6d2-46bd-a67a-ff0b2b57b4df.png" title="Tailwind CSS" alt="Tailwind CSS" width="70" height="40"/>&nbsp;&nbsp;
   <br>
   <br>
-          
+
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" title="Solana" alt="SOL" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/polygon-matic-logo-86F4D6D773-seeklogo.com.png" title="Polygon" alt="Polygon" width="50" height="50"> &nbsp; &nbsp; 
-  <img src="https://seeklogo.com/images/N/near-protocol-near-logo-747A7B638A-seeklogo.com.png" title="Near" alt="Near" width="50" height="50"> &nbsp; &nbsp;
+  <img src="https://github.com/moonman369/moonman369/assets/100613640/b89370fe-4bf4-48ac-a046-f1c8f467e41a" title="Near" alt="Near" width="50" height="50"> &nbsp; &nbsp;
   <img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" title="Avalanche" alt="Avalanche" width="50" height="50"> &nbsp; &nbsp;
   <img src="https://cryptologos.cc/logos/cosmos-atom-logo.svg?v=022"  title="Cosmos SDK" alt="Cosmos SDK" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;&nbsp;
