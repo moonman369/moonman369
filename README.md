@@ -91,10 +91,11 @@
   <img src="https://user-images.githubusercontent.com/100613640/199317110-85461db1-39d5-4e80-952c-e2cce780ae38.png" title="ExpressJS" alt="ExpressJS" width="60"> &nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/235369028-17d9b4e2-e406-4037-b281-1c637d976937.png" title="MongoDB" alt="MongoDB" width="60"> &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="ReactJS" alt="React" width="50" height="50"/>&nbsp;&nbsp;
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/moonman369/moonman369/assets/100613640/04ca2b24-9a06-4103-b220-9883ae64804c" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" title="VueJS" alt="Vue" width="50" height="45"/> &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100613640/250300636-725325a5-f0e4-4911-8aff-4f010e6c262d.png" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp; &nbsp;
+  
   
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" title="Hardhat" alt="Hardhat" width="50" height="40"/>&nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
