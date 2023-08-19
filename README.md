@@ -127,13 +127,13 @@
 
 <div align="center">
           
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=radical" width="798"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonman369&theme=midnight_purple" width="798"><br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=radical" width="389"><br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moonman369&theme=midnight_purple" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moonman369&theme=midnight_purple" width="389"><br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=radical" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=radical" width="389">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moonman369&theme=midnight_purple" width="392">&nbsp;&nbsp;<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=moonman369&theme=midnight_purple" width="389">
           
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moonman369&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" width="798" height="300">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moonman369&theme=midnight_purple&custom_title=streak-stats&hide_border=true&layout=compact" width="798" height="300">
           
 
 </div>
