@@ -49,6 +49,8 @@
 <a href="https://discord.com/users/1055708865943056414" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250511-33460d5c-cd81-4aa8-b484-78ec949e6a24.png" title="Discord" width='50'></a>&nbsp;
 <a href="https://medium.com/@crypto10000x" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167250523-0a4321fb-4554-4be8-a60e-d07a4a0a01bc.png" title="Medium" width='50'></a>&nbsp;
 <a href="https://angel.co/u/ayan-maiti-3" target="_blank"> <img src="https://user-images.githubusercontent.com/100613640/167265315-a13b030d-5af0-4d3e-91d8-98af834e59a4.png" title="AngelList" width='40' height="50"></a>&nbsp;
+<a href="https://devpost.com/moonman369" target="_blank"> <img src="https://github.com/moonman369/moonman369/assets/100613640/62b7ed1a-c8a0-41ff-b357-afaf3ce9a1f5" title="Devpost" width='50' height="50"></a>&nbsp;
+
 </div><br/><br/>
 
           
@@ -59,8 +61,8 @@
 <br/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-<div align="center">  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;&nbsp;
+
+  <img src="https://github.com/moonman369/moonman369/assets/100613640/7dddc66b-6985-4514-8263-ece55cec45b3" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/moonman369/moonman369/assets/100613640/be8e77b6-73b8-4f34-8898-56423f52d9b0"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"  title="Golang" alt="Golang" width="60" height="60"/>&nbsp;&nbsp;
