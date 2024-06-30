@@ -59,10 +59,11 @@
 
 
 <br/>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div align="center">
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> -->
           
 
-  <img src="https://github.com/moonman369/moonman369/assets/100613640/7dddc66b-6985-4514-8263-ece55cec45b3" title="JavaScript" alt="JavaScript" width="50"                      height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/moonman369/moonman369/assets/100613640/7dddc66b-6985-4514-8263-ece55cec45b3" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/moonman369/moonman369/assets/100613640/be8e77b6-73b8-4f34-8898-56423f52d9b0"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"  title="Golang" alt="Golang" width="60" height="60"/>&nbsp;&nbsp;
@@ -71,10 +72,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/235368570-a9473394-d6d2-46bd-a67a-ff0b2b57b4df.png" title="Tailwind CSS" alt="Tailwind CSS" width="70" height="40"/>&nbsp;&nbsp;
-  <br>
-  <br>
+
 
   <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
@@ -105,8 +105,8 @@
   <img src="https://user-images.githubusercontent.com/100613640/167257244-8dad48d2-9be0-4c17-8e9d-6a684aee2d0c.png" title="Truffle" alt="Truffle" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257343-9139a4a3-5c2e-4b26-90c8-e6945c5738ce.png" title="Ganache" alt="Ganache" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
-   <img src="https://github.com/moonman369/moonman369/assets/100613640/6ba15af4-2e2e-48b1-981d-363c1c739454" title="OpenAI API" alt="OpenAI API" width="50" height="50"/>&nbsp;&nbsp;
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://github.com/moonman369/moonman369/assets/100613640/6ba15af4-2e2e-48b1-981d-363c1c739454" title="OpenAI API" alt="OpenAI API" width="50" height="50"/>&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;&nbsp;
    
 
 
