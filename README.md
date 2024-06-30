@@ -66,6 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" alt="Python" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/moonman369/moonman369/assets/100613640/be8e77b6-73b8-4f34-8898-56423f52d9b0"  title="Solidity" alt="Solidity" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg"  title="Golang" alt="Golang" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000"  title="C#" alt="C#" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  title="Java" alt="Java" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="50" height="50"/>&nbsp;&nbsp;
@@ -75,6 +76,7 @@
   <br>
   <br>
 
+  <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257708-f12daab7-b593-409a-9284-686fe7de9b6a.png"  title="Blockchain" alt="Blockchain" width="50" height="50"/>&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/100613640/167257782-dab09ccc-20f6-4f70-8d93-bcbb4a51d37c.png"  title="Ethereum" alt="Ethereum" height="50"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" title="Solana" alt="SOL" width="50" height="50"/>&nbsp;&nbsp;
@@ -105,6 +107,7 @@
   <img src="https://user-images.githubusercontent.com/100613640/167257449-5e5713e9-4ae3-4cb9-ac52-2f4d1721aeb3.png" title="Metamask" alt="Metamask" width="50" height="50"/>&nbsp;&nbsp;
    <img src="https://github.com/moonman369/moonman369/assets/100613640/6ba15af4-2e2e-48b1-981d-363c1c739454" title="OpenAI API" alt="OpenAI API" width="50" height="50"/>&nbsp;&nbsp;
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;&nbsp;
+   
 
 
   <!--img src="https://user-images.githubusercontent.com/100613640/167257168-4ee54a7c-03b8-4706-8a82-7e7593f91931.png" title="Hardhat" alt="Hardhat" width="50" height="50"/-->&nbsp;&nbsp;
