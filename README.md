@@ -24,7 +24,8 @@
 - ☁ I'm currently working on **Azure, API Integration, Spring Boot Microservices and .NET Framework**.
 - 🌱 I’m an aspiring **Full Stack Developer** interested in developing and contributing advanced and cross-technology applications.
 - 🥅 My goal is to achieve efficiency, security and scalability in the applications that I build.
-- 🚀 I have also completed my internship as a ***Blockchain Developer*** at **W3Dev Private Limited** and participated in the **Chainlink Spring Hackathon, 2023**.
+- 🚀 I have also completed my internship as a ***Blockchain Developer*** at **W3Dev Private Limited**.
+- 🏁 Participated in the **Chainlink Spring Hackathon, 2023**.
 - 🧐 Contributed to multiple full stack applications from the ground up.
 - 💻 Researching about different Technology Stacks and developing applications and utilities using them.
 - 🔗 I have experience in working with Blockchains such as *Ethereum, Polygon, Avalanche, Solana, Near, Aptos, Cosmos, Cardano*, etc.
